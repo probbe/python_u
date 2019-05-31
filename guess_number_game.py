@@ -1,9 +1,5 @@
 
-# coding: utf-8
-
 #     Guessing game challenge 
-
-# In[123]:
 
 
 import random
