@@ -13,6 +13,7 @@ Alphabetically ordered list of programs:
 - PalindromeCheck.py: checks whether a passed in string is palindrome or not.
 - PangramCheck.py: check whether a string is pangram or not
 - piglatin_translator.py: translate into pig latin
+- OOP_test1: first attempt at Object Oriented Programming
 - SphereVol.py: computes the volume of a sphere given its radius.
 - tictactoe.py: Create a Tic Tac Toe game
 - UniqList.py: takes a list and returns a new list with unique elements of the first list.
