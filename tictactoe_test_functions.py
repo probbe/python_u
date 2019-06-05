@@ -1,4 +1,4 @@
-# Create a Tic Tac Toe game. -- Test script --
+# Create a Tic Tac Toe game. -- Test script
 #Here are the requirements:
 
     #2 players should be able to play the game (both sitting at the same computer)
